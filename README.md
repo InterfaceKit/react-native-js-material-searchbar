@@ -1,6 +1,11 @@
 # react-native-js-material-searchbar
 
 A React Native material search bar for Android that follows the Google's material design guidelines.
+See more on: https://material.io/guidelines/patterns/search.html#search-in-app-search
+
+<p align="center">
+<img src="./example.png" alt="SearchBar" height="100%">
+</p>
 
 ## Getting started
 
