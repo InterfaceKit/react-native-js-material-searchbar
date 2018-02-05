@@ -1,11 +1,42 @@
 {
   "name": "react-native-js-material-searchbar",
   "version": "0.0.1",
-  "private": true,
+  "description":
+    "A React Native material search bar for Android that follows the Google's material design guidelines.",
+  "author": "Antonio Moreno Valls <amoreno@apsl.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url":
+      "git+https://github.com/InterfaceKit/react-native-js-material-searchbar.git"
+  },
+  "bugs": {
+    "url":
+      "https://github.com/InterfaceKit/react-native-js-material-searchbar/issues"
+  },
+  "tags": [
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "material-design",
+    "search-bar"
+  ],
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "material-design",
+    "search-bar"
+  ],
   "scripts": {
+    "prettier":
+      "prettier --single-quote --print-width 81 --write index.js lib/BottomSheet.js",
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
   },
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "babel-jest": "21.2.0",
