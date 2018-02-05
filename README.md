@@ -1,5 +1,10 @@
 # react-native-js-material-searchbar
 
+<p>
+<img src="https://img.shields.io/npm/dm/react-native-js-material-searchbar.svg" />
+<img src="https://img.shields.io/npm/dt/react-native-js-material-searchbar.svg" />
+</p>
+
 A React Native material search bar for Android that follows the Google's material design guidelines.
 See more on: https://material.io/guidelines/patterns/search.html#search-in-app-search
 
@@ -10,7 +15,7 @@ See more on: https://material.io/guidelines/patterns/search.html#search-in-app-s
 ## Getting started
 
 ```sh
-$ yarn add InterfaceKit/react-native-js-material-searchbar
+$ yarn add react-native-js-material-searchbar
 ```
 
 ## Usage
